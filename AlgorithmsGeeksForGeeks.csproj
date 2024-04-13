@@ -44,9 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryTreeAlg.cs" />
-    <Compile Include="BreadthFirstSearch.cs" />
-    <Compile Include="DepthFirstSearch.cs" />
-    <Compile Include="DSMethods.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
